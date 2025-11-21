@@ -142,7 +142,7 @@ export const HomePage = () => {
             </div>
             <div className="relative h-[500px] rounded-lg overflow-hidden">
               <img 
-                src="https://images.unsplash.com/photo-1442512595367-42732509d3a4?q=80&w=800&auto=format&fit=crop" 
+                src="https://images.pexels.com/photos/324028/pexels-photo-324028.jpeg" 
                 alt="Coffee story" 
                 className="absolute inset-0 h-full w-full object-cover"
               />

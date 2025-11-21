@@ -13,7 +13,7 @@ export const HomePage = () => {
       <div className="relative h-[90vh] w-full overflow-hidden">
         <div className="absolute inset-0">
           <img 
-            src="https://images.unsplash.com/photo-1497935586351-b67a49e012bf?q=80&w=2000&auto=format&fit=crop" 
+            src="https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?q=80&w=2000&auto=format&fit=crop" 
             alt="Coffee brewing" 
             className="h-full w-full object-cover"
           />

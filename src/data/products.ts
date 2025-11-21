@@ -7,7 +7,7 @@ export const products: Product[] = [
     price: 5999,
     category: "machines",
     description: "专业级家用浓缩咖啡机，带PID控温系统和内置磨豆机。",
-    image: "https://images.unsplash.com/photo-1570589877965-c807c45102d8?q=80&w=800&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1585494156145-1c60a4fe952b?q=80&w=800&auto=format&fit=crop",
     details: [
       "快速加热系统",
       "内置锥形磨刀",
@@ -21,7 +21,7 @@ export const products: Product[] = [
     price: 2499,
     category: "machines",
     description: "全自动滴滤咖啡机，精准控制水温和流速，还原手冲风味。",
-    image: "https://images.unsplash.com/photo-1517080319656-58f382e278cb?q=80&w=800&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?q=80&w=800&auto=format&fit=crop",
     details: [
       "6种冲煮模式",
       "PID 温控",
@@ -35,7 +35,7 @@ export const products: Product[] = [
     price: 4200,
     category: "grinders",
     description: "零残粉单剂量磨豆机，专为精品咖啡爱好者设计。",
-    image: "https://images.unsplash.com/photo-1585551661150-22335c5c4f32?q=80&w=800&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1615653051968-69c27f145b7f?q=80&w=800&auto=format&fit=crop",
     details: [
       "63mm 锥刀",
       "零残粉设计",
@@ -49,7 +49,7 @@ export const products: Product[] = [
     price: 368,
     category: "grinders",
     description: "高性价比手磨，S2C切割磨芯，研磨均匀且省力。",
-    image: "https://images.unsplash.com/photo-1515696955266-4f67e13219e8?q=80&w=800&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1599080135779-73e033e9489c?q=80&w=800&auto=format&fit=crop",
     details: [
       "专利 S2C 磨芯",
       "全铝合金机身",
@@ -63,7 +63,7 @@ export const products: Product[] = [
     price: 128,
     category: "accessories",
     description: "经典 V60 手冲滤杯，包含分享壶和滤纸的入门套装。",
-    image: "https://images.unsplash.com/photo-1544566839-6296326c2847?q=80&w=800&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=800&auto=format&fit=crop",
     details: [
       "日本有田烧陶瓷",
       "螺旋肋骨设计",
@@ -91,7 +91,7 @@ export const products: Product[] = [
     price: 128,
     category: "beans",
     description: "埃塞俄比亚耶加雪菲，水洗处理，花香与柑橘风味。",
-    image: "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?q=80&w=800&auto=format&fit=crop",
+    image: "https://images.unsplash.com/photo-1587734195503-904fca47e0e9?q=80&w=800&auto=format&fit=crop",
     details: [
       "产地：埃塞俄比亚",
       "处理法：水洗",

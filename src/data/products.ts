@@ -7,7 +7,7 @@ export const products: Product[] = [
     price: 5999,
     category: "machines",
     description: "专业级家用浓缩咖啡机，带PID控温系统和内置磨豆机。",
-    image: "https://images.unsplash.com/photo-1585494156145-1c60a4fe952b?q=80&w=800&auto=format&fit=crop",
+    image: "https://images.pexels.com/photos/2668498/pexels-photo-2668498.jpeg",
     details: [
       "快速加热系统",
       "内置锥形磨刀",
@@ -21,7 +21,7 @@ export const products: Product[] = [
     price: 2499,
     category: "machines",
     description: "全自动滴滤咖啡机，精准控制水温和流速，还原手冲风味。",
-    image: "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?q=80&w=800&auto=format&fit=crop",
+    image: "https://images.pexels.com/photos/8937270/pexels-photo-8937270.jpeg",
     details: [
       "6种冲煮模式",
       "PID 温控",
@@ -35,7 +35,7 @@ export const products: Product[] = [
     price: 4200,
     category: "grinders",
     description: "零残粉单剂量磨豆机，专为精品咖啡爱好者设计。",
-    image: "https://images.unsplash.com/photo-1615653051968-69c27f145b7f?q=80&w=800&auto=format&fit=crop",
+    image: "https://images.pexels.com/photos/6205590/pexels-photo-6205590.jpeg",
     details: [
       "63mm 锥刀",
       "零残粉设计",
@@ -49,7 +49,7 @@ export const products: Product[] = [
     price: 368,
     category: "grinders",
     description: "高性价比手磨，S2C切割磨芯，研磨均匀且省力。",
-    image: "https://images.unsplash.com/photo-1599080135779-73e033e9489c?q=80&w=800&auto=format&fit=crop",
+    image: "https://images.pexels.com/photos/6205730/pexels-photo-6205730.jpeg",
     details: [
       "专利 S2C 磨芯",
       "全铝合金机身",
@@ -63,7 +63,7 @@ export const products: Product[] = [
     price: 128,
     category: "accessories",
     description: "经典 V60 手冲滤杯，包含分享壶和滤纸的入门套装。",
-    image: "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?q=80&w=800&auto=format&fit=crop",
+    image: "https://images.pexels.com/photos/7937499/pexels-photo-7937499.jpeg",
     details: [
       "日本有田烧陶瓷",
       "螺旋肋骨设计",
@@ -77,7 +77,7 @@ export const products: Product[] = [
     price: 1099,
     category: "accessories",
     description: "极简设计温控手冲壶，精准控温，水流稳定。",
-    image: "https://images.unsplash.com/photo-1551898604-877786f56260?q=80&w=800&auto=format&fit=crop",
+    image: "https://images.pexels.com/photos/18150916/pexels-photo-18150916.jpeg",
     details: [
       "PID 精准温控",
       "天鹅颈壶嘴",
@@ -105,7 +105,7 @@ export const products: Product[] = [
     price: 115,
     category: "beans",
     description: "哥伦比亚慧兰，均衡醇厚，带有坚果和焦糖的甜感。",
-    image: "https://images.unsplash.com/photo-1611854779393-1b2da9d400fe?q=80&w=800&auto=format&fit=crop",
+    image: "https://images.pexels.com/photos/7125781/pexels-photo-7125781.jpeg",
     details: [
       "产地：哥伦比亚",
       "处理法：水洗",
@@ -119,7 +119,7 @@ export const products: Product[] = [
     price: 1850,
     category: "accessories",
     description: "防水意式电子秤，反应灵敏，通过 APP 记录冲煮曲线。",
-    image: "https://images.unsplash.com/photo-1533583466011-4d976566929f?q=80&w=800&auto=format&fit=crop",
+    image: "https://images.pexels.com/photos/24960340/pexels-photo-24960340.jpeg",
     details: [
       "防水设计",
       "0.1g 精度",
@@ -133,7 +133,7 @@ export const products: Product[] = [
     price: 380,
     category: "accessories",
     description: "兼具美学与功能的经典设计，带来纯净清透的咖啡风味。",
-    image: "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?q=80&w=800&auto=format&fit=crop",
+    image: "https://images.pexels.com/photos/7623609/pexels-photo-7623609.jpeg",
     details: [
       "高硼硅耐热玻璃",
       "木质腰身皮绳",

@@ -71,17 +71,17 @@ export const HomePage = () => {
             {[
               { 
                 title: '意式浓缩', 
-                image: 'https://images.unsplash.com/photo-1612631352488-f337b1a0798f?q=80&w=800&auto=format&fit=crop',
+                image: 'https://images.pexels.com/photos/30553181/pexels-photo-30553181.jpeg',
                 link: '/shop?category=machines'
               },
               { 
                 title: '手冲咖啡', 
-                image: 'https://images.unsplash.com/photo-1541167760496-1628856ab772?q=80&w=800&auto=format&fit=crop',
+                image: 'https://images.pexels.com/photos/4927137/pexels-photo-4927137.jpeg',
                 link: '/shop?category=accessories'
               },
               { 
                 title: '新鲜烘焙', 
-                image: 'https://images.unsplash.com/photo-1511537632536-b74c2769373f?q=80&w=800&auto=format&fit=crop',
+                image: 'https://images.pexels.com/photos/7125781/pexels-photo-7125781.jpeg',
                 link: '/shop?category=beans'
               }
             ].map((cat) => (
